@@ -5,7 +5,7 @@ Businesses often struggle to understand **customer purchasing behavior during fe
 Without proper insights, companies miss opportunities to:
 - Target the right customer segments  
 - Optimize product offerings  
-- Maximize revenue  
+- Maximize revenue
 
 This project aims to analyze sales data and uncover **key patterns in customer behavior and revenue drivers**.
 
