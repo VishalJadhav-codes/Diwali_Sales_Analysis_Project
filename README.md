@@ -4,7 +4,7 @@
 Businesses often struggle to understand **customer purchasing behavior during festive seasons like Diwali**.  
 Without proper insights, companies miss opportunities to:
 - Target the right customer segments  
-- Optimize product offerings  
+- Optimize product offerings
 - Maximize revenue
 
 This project aims to analyze sales data and uncover **key patterns in customer behavior and revenue drivers**.
